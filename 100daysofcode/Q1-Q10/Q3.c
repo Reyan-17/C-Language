@@ -3,14 +3,14 @@
 #include<stdio.h>
 int main()
 {
-float l,b,perimeter,areaa;
+float l,b,perimeter,area;
 printf("enter the length:");
 scanf("%f",&l);
 printf("enter the breadth:");
 scanf("%f",&b);
 perimeter=2*(l+b);
 printf("perimeter=%fm\n",perimeter);
-areaa=l*b;
-printf("areaa=%fm^2\n",areaa);
+area=l*b;
+printf("areaa=%fm^2\n",area);
 return 0;
 }
