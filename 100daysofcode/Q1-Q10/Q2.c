@@ -3,17 +3,17 @@
 int main()
 {
 float a,b,sum,product,difference,quiotent;
-printf("enter the first no.");
+printf("enter the first no.\n");
 scanf("%f",&a);
-printf("enter the second no.");
+printf("enter the second no.\n");
 scanf("%f",&b);
 sum=a+b;
-printf("sum=%f",sum);
+printf("sum=%f\n",sum);
 product=a*b;
-printf("product=%f",product);
+printf("product=%f\n",product);
 quiotent=a/b;
-printf("quiotent=%f",quiotent);
+printf("quiotent=%f\n",quiotent);
 difference=a-b;
-printf("difference=%f",difference);
+printf("difference=%f\n",difference);
 return 0;
 }
