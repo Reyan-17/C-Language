@@ -1,4 +1,6 @@
+
 //wap to find sum of two numbers:
+//wap to find sum of 2 no.:
 #include<stdio.h>
 
 int main()
