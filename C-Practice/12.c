@@ -1,3 +1,4 @@
+// wap to check the type of triangle.
 #include<stdio.h>
 int main()
 {
@@ -10,7 +11,7 @@ int main()
     }
     else if(a==b||b==c||c==a)
     {
-        printf("Its an isosceles\n");
+        printf("Its an isosceles \n");
     }
     else
     {
