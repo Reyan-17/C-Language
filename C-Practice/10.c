@@ -1,3 +1,4 @@
+//wap to check is even or odd.
 #include<stdio.h>
 int main()
 {
