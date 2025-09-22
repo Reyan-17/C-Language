@@ -1,4 +1,4 @@
-//wap to print average of three numbers.
+//wap to print average of two numbers.
 #include<stdio.h>
 int main()
 {
